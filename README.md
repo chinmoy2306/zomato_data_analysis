@@ -17,8 +17,8 @@ This repository is structured as follows:
 -	`gold_users.csv`
 -	`zomato_analysis.sql`
 
--- Raw dataset files:
---- `products.csv`
+		-- Raw dataset files:
+			--- `products.csv`
 --- `sales.csv`
 --- `users.csv` 
 --- `gold_users.csv`
