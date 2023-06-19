@@ -17,11 +17,11 @@ This repository is structured as follows:
 -	`gold_users.csv`
 -	`zomato_analysis.sql`
 
-	-- Raw dataset files:
-			--- `products.csv`
-o	`sales.csv`
-o	`users.csv` 
-o	`gold_users.csv`
+-- Raw dataset files:
+--- `products.csv`
+--- `sales.csv`
+--- `users.csv` 
+--- `gold_users.csv`
 	`zomato_analysis.sql`: 
 o	This SQL script contains the queries used for data analysis on the Zomato dataset.
 o	The queries cover various aspects, such as sales analysis, user segmentation, product categorization, etc.
