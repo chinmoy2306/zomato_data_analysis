@@ -16,7 +16,8 @@ This repository is structured as follows:
 -	`users.csv`
 -	`gold_users.csv`
 -	`zomato_analysis.sql`
-	- Raw dataset files:
+
+ 	- Raw dataset files:
 		- `products.csv`
 		- `sales.csv`
 		- `users.csv` 
@@ -34,10 +35,10 @@ git clone https://github.com/your-username/your-repository.git
 4.	Execute the SQL queries from the `zomato_analysis.sql` file in your MySQL environment to perform the analysis.
 ## Dependencies
 The following dependencies are required to run the `census_2011_analysis.sql` file:
-•	MySQL server and client
+- MySQL server and client
 ## License
-The dataset used in this project is sourced from Kaggle and is subject to the licensing terms provided by the dataset author. Please refer to the Kaggle dataset documentation for more information on licensing and usage restrictions.
-Remember to comply with the licensing terms when using the dataset for any purpose.
+- The dataset used in this project is sourced from Kaggle and is subject to the licensing terms provided by the dataset author. Please refer to the Kaggle dataset documentation for more information on licensing and usage restrictions.
+- Remember to comply with the licensing terms when using the dataset for any purpose.
 
 
 1. First item
