@@ -39,19 +39,3 @@ The following dependencies are required to run the `census_2011_analysis.sql` fi
 ## License
 - The dataset used in this project is sourced from Kaggle and is subject to the licensing terms provided by the dataset author. Please refer to the Kaggle dataset documentation for more information on licensing and usage restrictions.
 - Remember to comply with the licensing terms when using the dataset for any purpose.
-
-
-1. First item
-    1. Sub-item 1
-    2. Sub-item 2
-        1. Sub-sub-item 1
-        2. Sub-sub-item 2
-2. Second item
-    - Sub-item A
-    - Sub-item B
-3. Third item
-    - Sub-item X
-        - Sub-sub-item I
-        - Sub-sub-item II
-    - Sub-item Y
-
