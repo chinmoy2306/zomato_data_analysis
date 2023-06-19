@@ -10,22 +10,16 @@ The dataset used for this analysis consists of the following files:
 -	`gold_users.csv`: This file contains information about users who have subscribed to Zomato's premium gold membership.
 ## Project Structure
 This repository is structured as follows:
--	`README.md`
--	`products.csv`
--	`sales.csv`
--	`users.csv`
--	`gold_users.csv`
--	`zomato_analysis.sql`
-
- 	- Raw dataset files:
-		- `products.csv`
-		- `sales.csv`
-		- `users.csv` 
-		- `gold_users.csv`
-	- `zomato_analysis.sql`: 
-		- This SQL script contains the queries used for data analysis on the Zomato dataset.
-		- The queries cover various aspects, such as sales analysis, user segmentation, product categorization, etc.
-	Feel free to explore the `zomato_analysis.sql` file to view the specific queries used in this analysis.
+- Readme file: `README.md`
+- Raw dataset files:
+	- `products.csv`
+	- `sales.csv`
+	- `users.csv` 
+	- `gold_users.csv`
+- SQL script file `zomato_analysis.sql`: 
+	- This SQL script contains the queries used for data analysis on the Zomato dataset.
+	- The queries cover various aspects, such as sales analysis, user segmentation, product categorization, etc.
+	- Feel free to explore the `zomato_analysis.sql` file to view the specific queries used in this analysis.
 ## Usage
 To reproduce the analysis or explore the dataset and code further, please follow these steps:
 1.	Clone the repository:
