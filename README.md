@@ -12,10 +12,10 @@ The dataset used for this analysis consists of the following files:
 This repository is structured as follows:
 - Readme file: `README.md`
 - Raw dataset files:
-	- `products.csv`
+	- `products.csv` 
 	- `sales.csv`
 	- `users.csv` 
-	- `gold_users.csv`
+	- [`gold_users.csv`](https://github.com/chinmoy2306/zomato_data_analysis/blob/f643f754edf051d5c5303df7eb824cdbc95a5244/gold_users.csv)
 - SQL script file `zomato_analysis.sql`: 
 	- This SQL script contains the queries used for data analysis on the Zomato dataset.
 	- The queries cover various aspects, such as sales analysis, user segmentation, product categorization, etc.
