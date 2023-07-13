@@ -1,7 +1,7 @@
 # Project : Zomato Dataset Analysis
 ## Overview
--	This repository showcases my data analysis project performed using MySQL on the dummy zomato dataset. 
--	The dataset was obtained from Kaggle and consists of several files such as: `products.csv`, `sales.csv` etc, which were used to gain insights and perform various analysis on the Zomato dataset. 
+-	This repository showcases my data analysis project performed using MySQL on the zomato dataset. 
+-	It consists of several flat files such as: `products.csv`, `sales.csv` etc, which were used to gain insights and perform various analysis on it. 
 ## Dataset
 The dataset used for this analysis consists of the following files:
 -	`products.csv`: This file contains information about the different food items available on Zomato, including their names, prices etc.
